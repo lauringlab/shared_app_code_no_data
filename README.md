@@ -2,3 +2,4 @@
 
 
 app_sapphire.R = underlying RShiny app code for the MI-SAPPHIRE Project dashboard
+app_coverage.R = underlying RShiny app code for the general coverage checking dashboard
